@@ -1,0 +1,2 @@
+This is a text file. 
+Let's pretend this file was created by another user.
